@@ -1,0 +1,22 @@
+.idea/
+*.log
+kick.sh
+node_modules
+.env
+/.vscode/
+/.idea/
+public/books/*
+public/appconfigs/*
+public/contents/*
+public/images/*
+public/videos/*
+public/stylesheets/*
+
+# keep following folders only without files
+!public/books/.gitkeep
+!public/appconfigs/.gitkeep
+!public/contents/.gitkeep
+!public/images/.gitkeep
+!public/videos/.gitkeep
+!public/stylesheets/.gitkeep
+
